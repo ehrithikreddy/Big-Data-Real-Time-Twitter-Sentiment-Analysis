@@ -111,9 +111,7 @@ To run this project, you will need the following installed on your system:
    ```bash
    docker exec -it <kafka-container-id> /bin/bash
    ```
-   - or using docker desktop :
-     
-     ![ docker desktop img](imgs/img5.png)
+   
 
 4. **Run kafka Zookeeper and a Broker**:
    ```bash
@@ -131,11 +129,7 @@ To run this project, you will need the following installed on your system:
    py consumer-pyspark.py
    ```
 
-![Running the Kafka and Spark Streaming application img](imgs/img6.png)
 
-this is an img of the MongoDBCompass after Running the Kafka and Spark Streaming application :
-
-![MongoDBCompass img](imgs/img4.png)
 
 #### Running Django Dashboard application :
 
